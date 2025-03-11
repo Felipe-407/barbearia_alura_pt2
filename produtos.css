@@ -13,3 +13,5 @@ nav a {
   color: #000000;
   font-weigth: bold;
   font-size: 22px;
+  text-decoration: none; 
+}
