@@ -1,10 +1,10 @@
-hader {
-  background: #bbbbbb;
+header {
+  background:#bbbbbb;
   padding: 20px 0;
 }
 
 nav li {
-  display: inline
+  display: inline;
   margin: 0 0 0 15px;
 }
 
@@ -13,5 +13,48 @@ nav a {
   color: #000000;
   font-weigth: bold;
   font-size: 22px;
-  text-decoration: none; 
-}
+  text-decoration: none;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.produto-preco{
+ font-size: 22px;
+  font-weight: bold;
+  margin-top:10px;
