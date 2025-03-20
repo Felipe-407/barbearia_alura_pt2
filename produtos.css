@@ -65,8 +65,31 @@ nav a:hover{
   margin-top: 10px;
 }
 
+ont-size: 30px;
+  font-weight: bold;
+}
 
+.produto-descricao{
+  font-size: 18px;
+}
 
+.produto-preco{
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+/*add 18/03*/
+footer{
+  text-align: center;
+  background: url("bg.jpg");
+  padding: 40px 0;
+}
+/*add 18/03*/
+.copyright{
+  color: white;
+  font-size: 22px;
+  margin: 20px auto;
+}
 
 
 
