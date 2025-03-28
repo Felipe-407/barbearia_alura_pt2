@@ -1,4 +1,6 @@
-#banner {
+#@import url(produto.css);
+
+banner {
 	width:100%;
 }
 
