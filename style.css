@@ -57,13 +57,23 @@ banner {
 }
 
 .imagem-beneficios {
-	width: 60%
+	width: 60%;
+    opacity: 1;
+	transition: 400ms;
+	box-shadow: 10px 10px 10px 0 #000000;
+}
+
+.imagem-beneficios:hover{
+	opacity: 0.3;
 }
 
 .itens{
 	line-height: 1.5;
 }
 
+.itens:before{
+	content: "🪒";
+}
 
 .itens:first-child{
 	font-weight: bold;
