@@ -42,7 +42,7 @@ form label, form p {
     cursor: pointer;
   }
 
-  .enviar :hover {
+  .enviar:hover {
     background: darkgrey;
     transform: scale(1.2);
   }

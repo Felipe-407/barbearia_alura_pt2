@@ -1,4 +1,4 @@
-#@import url(produto.css);
+@import url(produtos.css);
 
 body{
 	font-family: 'roboto', sans-serif;
@@ -95,8 +95,8 @@ banner {
 	margin: 1em auto;
 }
 
-@media screen and(max-width: 480px;){
-	.caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video
+@media screen and(max-width: 480px){
+	.caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video{
 	    width: auto;
 }
 	
