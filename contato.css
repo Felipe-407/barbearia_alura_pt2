@@ -1,9 +1,9 @@
 @import url(produtos.css);
 
 main {
-    width: 940px;
-    margin: 0 auto;
-  }
+       width: 940px;
+       margin: 0 auto;
+ }
 
 form {
   margin: 40px 0;
@@ -42,4 +42,19 @@ form label, form p {
   .enviar :hover {
     background: darkgrey;
     transform: scale(1.2);
+  }
+
+  table{
+    margin: 20px 0 40px;
+  }
+  
+  thead{
+    background: #555555;
+    color: white;
+    font-weight: bold;
+  }
+  
+  td, th{
+    border: 1px solid black;
+    padding: 8px 15px;
   }
