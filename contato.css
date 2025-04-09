@@ -1,4 +1,7 @@
 @import url(produtos.css);
+body{
+	font-family: 'roboto', sans-serif;
+}
 
 main {
        width: 940px;
