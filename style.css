@@ -3,7 +3,8 @@
 body{
 	font-family: 'roboto', sans-serif;
 }
-banner {
+
+.banner {
 	width:100%;
 }
 
@@ -42,6 +43,7 @@ banner {
 	margin: 0 20px  20px 0;
 }
 .beneficios{
+	padding: 3em 0;
 	background: #888888; 
 }
 
@@ -51,7 +53,7 @@ banner {
 }
 
 .lista-beneficios{
-	width: 40px;
+	width: 40%;
 	display: inline-block;
 	vertical-align: top;
 }
